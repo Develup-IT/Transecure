@@ -5,7 +5,7 @@ This project focuses on tracing cryptocurrency transactions back to the end user
 
 ## Key Features
 
-**Behavioral Analysis**: Track user activities to uncover patterns and correlations.
+**Behavioral Analysis**: Track user activities to uncover patterns and correlations. <br />
 **Anomaly Detection**: Spot irregularities in transactions to flag potential risks.
 **End-to-End Tracing**: Accurately trace transactions to the final user.
 **User-Friendly Dashboard**: Real-time visualization of transaction flows and detected anomalies.
