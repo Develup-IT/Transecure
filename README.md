@@ -1,5 +1,3 @@
-![WhatsApp Image 2024-08-25 at 8 22 40 PM](https://github.com/user-attachments/assets/9591fbc1-b006-4b32-847e-60def60dd4aa)🚀 Crypto Transaction Tracing and Analysis
-
 **Overview**
 This project focuses on tracing cryptocurrency transactions back to the end users by analyzing their behavior patterns. Using advanced data analysis techniques, we search for anomalies within transaction sets to detect suspicious or fraudulent activities. This tool will be invaluable for financial institutions, regulatory bodies, and others interested in tracking the flow of digital assets.
 
