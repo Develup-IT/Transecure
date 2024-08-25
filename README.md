@@ -1,9 +1,9 @@
 🚀 Crypto Transaction Tracing and Analysis
 
-Overview
+**Overview**
 In this project, we aim to trace cryptocurrency transactions back to the end users by analyzing their behavior patterns. By leveraging advanced data analysis techniques, we search for anomalies in the transaction sets, which can indicate suspicious or fraudulent activities. This tool can be a powerful asset for financial institutions, regulatory bodies, and anyone interested in understanding the flow of digital assets.
 
-Key Features
+**Key Features**
 Behavioral Analysis: Monitor user activities to identify patterns and correlations.
 Anomaly Detection: Identify irregularities in transactions to flag potential risks.
 End-to-End Tracing: Trace transactions to the end user with a high degree of accuracy.
@@ -16,12 +16,12 @@ React & D3.js: For creating interactive visualizations and dashboards.
 Docker: To containerize and deploy the application seamlessly.
 Flask: For web integration
 Getting Started
-Prerequisites
+**Prerequisites**
 Docker installed on your machine
 Basic knowledge of blockchain and machine learning
 Knowledge of Python and its libraries such as TensorFlow and SciKit Learn
 
-Project Workflow
+**Project Workflow**
 Below is a simplified workflow of the project:
 
 Data Collection: Gather transaction data from the blockchain.
